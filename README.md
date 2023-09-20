@@ -28,9 +28,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Was difficult to get third screen to contrain to the constraints of the window. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jack Howard]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

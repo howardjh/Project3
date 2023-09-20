@@ -20,7 +20,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+![](https://github.com/howardjh/Project3/blob/main/Projec3Demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

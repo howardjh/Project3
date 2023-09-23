@@ -1,5 +1,7 @@
 # Project 3
 
+>>> collaberated with Stephen French
+
 Description of the project ...
 
 ## Functionality 
